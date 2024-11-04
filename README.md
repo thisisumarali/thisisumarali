@@ -1,6 +1,6 @@
-<h3 align="center">Hi 👋, I'm Umar Khan</h3>
+<h2 align="center">Hi 👋, I'm Umar Khan</h2>
 
-<h2 align="center">A passionate Web developer.</h2>
+<h1 align="center">A passionate Web developer.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisumarali&label=Profile%20views&color=0e75b6&style=flat" alt="thisisumarali" /> </p>
 
