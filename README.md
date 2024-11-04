@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://umarkhan.tech/](https://umarkhan.tech/)
 
-- 💬 Ask me about **Web Development | HTML | CSS | NEXT JS |TAILWIND CSS | PYTHON | GEN AI**
+- 💬 Ask me about **Web Development | HTML | CSS | NEXT JS |TAILWIND CSS | React | Express**
 
 - 📫 How to reach me **umeralikhan7864@gmail.com**
 
