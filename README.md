@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/thisisumarali" target="blank"><img src="https://img.shields.io/twitter/follow/thisisumarali?logo=twitter&style=for-the-badge" alt="thisisumarali" /></a> </p>
 
-- 🔭 I’m currently working on **Next Js Starpi**
+- 🔭 I’m currently working on **Mern Stack**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **React Native**
 
 - 🤝 I’m looking for help with **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://umarkhandev.vercel.app/](https://umarkhandev.vercel.app/)
 
-- 💬 Ask me about **Web Development | HTML | CSS | NEXT JS |TAILWIND CSS | React | Express**
+- 💬 Ask me about **Web Development | MERN | NEXT JS | Express | MongoDb | PostgressSql | TAILWIND CSS**
 
-- 📫 How to reach me **umeralikhan7864@gmail.com**
+- 📫 How to reach me **thisisumaralii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
