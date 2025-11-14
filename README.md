@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://umarkhan.tech/](https://umarkhan.tech/)
+- 👨‍💻 All of my projects are available at [https://umarkhandev.vercel.app/](https://umarkhandev.vercel.app/)
 
 - 💬 Ask me about **Web Development | HTML | CSS | NEXT JS |TAILWIND CSS | React | Express**
 
