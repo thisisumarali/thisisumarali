@@ -24,8 +24,6 @@
 <p align="left">
 <a href="https://twitter.com/thisisumarali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thisisumarali" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/umerkhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umerkhandev" height="30" width="40" /></a>
-<a href="https://fb.com/umarkhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umarkhandev" height="30" width="40" /></a>
-<a href="https://instagram.com/umarkhandev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umarkhandev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
