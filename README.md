@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://umarkhandev.vercel.app/](https://umarkhandev.vercel.app/)
 
-- 💬 Ask me about **Web Development | MERN | NEXT JS | Express | MongoDb | PostgressSql | TAILWIND CSS**
+- 💬 Ask me about **Software Development | MERN | NEXT JS | Express | MongoDb | PostgressSql | TAILWIND CSS**
 
 - 📫 How to reach me **thisisumaralii@gmail.com**
 
